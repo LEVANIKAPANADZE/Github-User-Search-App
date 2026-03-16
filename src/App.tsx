@@ -1,11 +1,5 @@
-import First from "./assets/components/first/first";
-
 function App() {
-  return (
-    <>
-      <First />
-    </>
-  );
+  return <></>;
 }
 
 export default App;
